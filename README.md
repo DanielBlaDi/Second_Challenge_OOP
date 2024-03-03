@@ -52,6 +52,7 @@ classDiagram
       +str type_of_cell
       +str color
       +behavior()
+      +reproduction()
     }
 
     class Animals{

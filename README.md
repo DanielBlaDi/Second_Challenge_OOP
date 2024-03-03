@@ -69,4 +69,4 @@ classDiagram
     }
 ```
 
-
+If you know another relation or another thing that I could add, you could tell me by a pull request
